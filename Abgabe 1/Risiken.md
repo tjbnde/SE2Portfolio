@@ -12,6 +12,6 @@
 
 ## Wahrgenommene Risiken
 ## Einordnung der Risiken in Risikoklassen
-![Preismetrik](Risiken-Raw/Risikoklassen.PNG)
+![Preismetrik](Risiken-Raw/Risikoklassifikation.PNG)
 
 ## Bewertung und Strategie zur Mitigation
