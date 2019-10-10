@@ -1,7 +1,7 @@
 # SE2 Portfolio
 Teammitglieder: Marleen Benner, Jan Zecevic, Sinan-Justin Kühn, Tobias Jansen, Calogero Meli
 
-## Gliederung des Repository
+## Gliederung des Repositories
 Unser Repository beinhaltet den Unterordner "Abgabe 1". Dieser enthält die einzelnen Anforderungen als eigenständige Dateien. Wenn bei der Erstellung von z.B. Grafiken zusätzliches Material (z.B. Word-Dateien) angefallen ist, liegt dies kategorisch sortiert in Unterordnern des Ordners "Abgabe 1".
 
 Für die zweite Abgabe wird in der Zukunft ein zweiter Ordner Namens "Abgabe 2" angelegt.
