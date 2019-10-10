@@ -17,7 +17,7 @@
   * Plattform: Die Plattform sollte für die Anwendung passend sein und Stabild und sicher laufen.
   * Testing: Die Fehler, die nach dem Launch der mobilen App auftreten, sind schwierig und teuer zu beheben. Also ist es wichitig, alle möglichen Szenarien beim Testen auszuprobieren.
 
-Allgemein ist Testen sehr wichtig, dass die wesentlichen Funktionalitäten problemlos gehen. Verschiedenste Modelle sollten getestet werden, da die App auf Geräten mit unterschiedlichen Bildschirmgrößen, Auflösungen und verschiedener Anbieter laufen wird.
+     Allgemein ist Testen sehr wichtig, dass die wesentlichen Funktionalitäten problemlos gehen. Verschiedenste Modelle sollten getestet werden, da die App auf Geräten mit unterschiedlichen Bildschirmgrößen, Auflösungen und verschiedener Anbieter laufen wird.
 
 * Kundenrisiken
 
