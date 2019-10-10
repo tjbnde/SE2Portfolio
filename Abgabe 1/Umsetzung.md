@@ -1,1 +1,6 @@
 # Umsetzung
+Zur Einstufung der Komplexität des Projektes wurde zunächst das Cynefin-Modell verwendet. Da diese Gruppe allerdings zum ersten Mal eine Idee in eine App umsetzt, fehlt das Experten- und Fachwissen. Dementsprechend wird das Projekt dem Bereich „unklar“ zugeordnet. Die neue Grundlage für die Einordung der Komplexität bildet nun die Stacey-Matrix. Somit muss entschieden werden, wie stark diese Unklarheit ist. Es wurde sich für folge Komplexität entschieden:
+  -	**Komplex**\
+Die Vision ist zwar vorhanden, allerdings sind die konkreten Anforderungen der App, sowie die zentral Funktionen, die sie besitzen      soll, noch unklar. Des Weiteren ist der Lösungsweg noch nicht ersichtlich, da es sich hier um die erste Umsetzung eines solchen        Projektes handelt. In Anbetracht eines benötigten Umfelds mit flexiblen Anforderungsänderungen erweist sich ein agiles Vorgehensmodell als am besten.
+
+Als agile Praktik wurde sich konkret für „**Scrum**“ entschieden. Die Entscheidungsgrundlage bilden die zentralen Elemente des Scrum-Umfelds, die Vorgehensweise des Arbeitens und die gemachten positiven Erfahrung einzelner Teammitglieder mit „Scrum“. Im Rahmen des Scrum-Frameworks müssen zusätzlich noch Scrum-Werte, -Artefakte, -Events und die Team Rollen festgelegt werden.
