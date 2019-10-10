@@ -2,6 +2,7 @@
 
 ## Business-Metriken
 ![Business-Metrik Einnahmequellen](Metriken-Raw/Businessmetriken1.PNG)
+---
 ![Business-Metrik Kosten](Metriken-Raw/Businessmetriken2.PNG)
 ## Preis-Metriken
 ![Preismetrik](Metriken-Raw/Preismetrik.PNG)
