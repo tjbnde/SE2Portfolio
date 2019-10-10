@@ -1,9 +1,8 @@
 # Metriken
 
 ## Business-Metriken
-![Kostenmetrik](Metriken-Raw/BusinessmetrikenKosten.PNG)
-
-![Einnahmequellen](Metriken-Raw/BusinessmetrikenEinnahmequellen.PNG)
+![Preismetrik](Metriken-Raw/Businessmetriken1.PNG)
+![Preismetrik](Metriken-Raw/Businessmetriken2.PNG)
 ## Preis-Metriken
 ![Preismetrik](Metriken-Raw/Preismetrik.PNG)
 ## Nutzungs-Metriken
