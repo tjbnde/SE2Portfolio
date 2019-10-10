@@ -28,6 +28,7 @@
   Mit dem Launch einer mobilen Anwendung sind Risiken verbunden. Daher ist der Support nach der Veröffentlichung der App das Wichtigste für den Produkterfolg. Es ist wichtig, die Funktionen der Software regelmäßig zu aktualisieren. Daher sollte die mobile Anwendung neue Änderungen in der Plattform übernehmen und Support bieten. Damit werden auch die individuellen Bedürfnisse der Kunden erfüllt, die ständige Updates und Aufmerksamkeit erfordern.
 
 ## Wahrgenommene Risiken
+Diese können wir noch nicht definieren, da die Entwicklung und Planung der App noch nicht gestartet ist.
 ## Einordnung der Risiken in Risikoklassen
 ![Risikoklassifikation](Risiken-Raw/Risikenklassifikation.PNG)
 
