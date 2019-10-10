@@ -20,8 +20,8 @@ Zur Erstellung von Operational-Metriken werden Informationen benötigt, die für
 
 # Alert Szenarien
 ## 1. Alert-Szenario
-![AlertSzenario 1](Metriken-Raw/AlertSzenario1.PNG)
+![AlertSzenario 1](Metriken-Raw/AlertSzenario1.PNG =250x)
 ## 2. Alert-Szenario
-![AlertSzenario 2](Metriken-Raw/AlertSzenario2.PNG)
+![AlertSzenario 2](Metriken-Raw/AlertSzenario2.PNG =250x)
 ## 3. Alert-Szenario
-![AlertSzenario 3](Metriken-Raw/AlertSzenario3.PNG)
+![AlertSzenario 3](Metriken-Raw/AlertSzenario3.PNG =250x)
