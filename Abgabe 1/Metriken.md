@@ -16,5 +16,6 @@ Die Anwendung und die Schnittstellen dürfen maximal 15 Sekunden pro Stunde (≈
 ### 3. Randbedingung: Maximale Wartezeit auf eine Antwort des Kundenservices
 Bei Anfragen der Benutzer sollte eine Antwort innerhalb von 48 Stunden nach dem Eingang der Anfrage erfolgen.
 ## Operational-Metriken
+Zur Erstellung von Operational-Metriken werden Informationen benötigt, die für den Betrieb des Services notwendig sind. Diese liegen in diesem Fall noch nicht vor und können dementsprechend erst später ergänzt werden.
 
 # Alert Szenarien
