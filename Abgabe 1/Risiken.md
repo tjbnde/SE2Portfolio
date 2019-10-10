@@ -1,8 +1,5 @@
 # Risiken
 ## Definition von Risikoklassen
-
-## Wahrgenommene Risiken
-## Einordnung der Risiken in Risikoklassen
 * Marktrisiko
 * Kommunikationsrisiken
 * Ressourcenrisiko
@@ -12,6 +9,6 @@
 
 ## Wahrgenommene Risiken
 ## Einordnung der Risiken in Risikoklassen
-![Preismetrik](Risiken-Raw/Risikoklassifikation.PNG)
+![Risikoklassifikation](Risiken-Raw/Risikenklassifikation.PNG)
 
 ## Bewertung und Strategie zur Mitigation
