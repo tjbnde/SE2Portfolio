@@ -1,7 +1,7 @@
 # SE2 Portfolio
 Teammitglieder: 
-* Marleen Benner (das kleine, blonde Mädchen)
-* Jan Zecevic (der ganz große mit Bart)
+* Marleen Benner (Das kleine, blonde Mädchen)
+* Jan Zecevic (Der ganz große mit Bart)
 * Sinan-Justin Kühn (Der türkische Lauch)
 * Tobias Jansen (Der deutsche Lauch)
 * Calogero Meli (Der Italiener - Erinnert an Ronaldo)
