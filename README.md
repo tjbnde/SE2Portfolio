@@ -4,7 +4,7 @@ Teammitglieder:
 * Jan Zecevic (der ganz große mit Bart)
 * Sinan-Justin Kühn (Der türkische Lauch)
 * Tobias Jansen (Der deutsche Lauch)
-* Calogero Meli (Der Italiener. Erinnert an Ronaldo)
+* Calogero Meli (Der Italiener - Erinnert an Ronaldo)
 
 ## Gliederung des Repositories
 Unser Repository beinhaltet den Unterordner "Abgabe 1". Dieser enthält die einzelnen Anforderungen als eigenständige Dateien. Wenn bei der Erstellung von z.B. Grafiken zusätzliches Material (z.B. Word-Dateien) angefallen ist, liegt dies kategorisch sortiert in Unterordnern des Ordners "Abgabe 1".
