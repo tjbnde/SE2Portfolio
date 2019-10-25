@@ -1,14 +1,19 @@
 # Release Planung
 
 Was soll im ersten Release geliefert werden?
-* 
-* 
-* 
+* CO2-Footprint messen
+* erste Tipps
+* Werbung
+* Account
+* Community-Forum
+* Zahlungsmöglichkeit
+* Plant-A-Tree for every 100th User
 
 Was können wir im nächsten Release liefern?
-* 
-* 
-* 
+* Gruppenfunktion
+* Leaderboards
+* Achievements
+* Umwelt-Kalender
 
 ## Voraussetzungen
 Grob formulierte Anforderungen -> User Story
