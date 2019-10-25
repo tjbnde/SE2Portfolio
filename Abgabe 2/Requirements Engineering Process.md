@@ -17,10 +17,7 @@ Durchgeführter Requirements Engineering Prozess und Dokumentation aller gefunde
 
 ### Stakeholder Klassifizierung
 
-viel Macht/positiv -> eng managen: Partner, Product Owner, Investoren
-viel Macht/negativ -> zufriedenstellen: 
-wenig Macht/positiv -> informieren: Entwickler, Scrum Master, Nutzer, Universitäten
-wenig Macht/negativ -> überwachen:
+![Klassifizierung](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Matrix.jpg)
 
 ## Warum wird Geld investiert? - Business Requirements
 
