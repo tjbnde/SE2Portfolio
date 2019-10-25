@@ -1,7 +1,14 @@
 # Release Planung
 
-Was soll im nächsten Release geliefert werden?
+Was soll im ersten Release geliefert werden?
+* 
+* 
+* 
+
 Was können wir im nächsten Release liefern?
+* 
+* 
+* 
 
 ## Voraussetzungen
 Grob formulierte Anforderungen -> User Story
