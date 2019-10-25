@@ -3,70 +3,64 @@ Durchgeführter Requirements Engineering Prozess und Dokumentation aller gefunde
 
 ## Wer ist an der Lösung interessiert? - Stakeholder
 
-### Stakeholder Klassifizierung
-
-viel Macht/positiv -> eng managen:
-viel Macht/negativ -> zufriedenstellen:
-wenig Macht/positiv -> informieren:
-wenig Macht/negativ -> überwachen:
-
 ### Stakeholder Identifikation
 
-Wer hat Einfluss auf die an das Projekt gestellten Anforderungen?
-Wer beeinflusst das Budget und den Zeitplan?
-Wer kümmert sich um die Geschäftsbeziehung zwischen unserem Team und dem Kunden?
-Wer entscheidet wann und ob überhaupt die Lösung an den Kunden ausgeliefert werden kann?
-Wer kann das Projekt politisch beeinflussen? (positiv wie negativ)
-Welche Partner hängen von unserem System ab?
-Von welchen Partnern sind wir abhängig?
-Wer interessiert sich für den Prozess den wir nutzen um die Lösung zu entwickeln?
-Wer wird welche Teile der implementierten Lösung nutzen?
+* Wer hat Einfluss auf die an das Projekt gestellten Anforderungen? - Product Owner, Entwickler, Partner (DB, RNV/VRN, Plant-for-the-Planet), Nutzer
+* Wer beeinflusst das Budget und den Zeitplan? - Partner, Investoren - Scrum Master, Product Owner
+* Wer kümmert sich um die Geschäftsbeziehung zwischen unserem Team und dem Kunden? - Product Owner
+* Wer entscheidet wann und ob überhaupt die Lösung an den Kunden ausgeliefert werden kann? - Product Owner
+* Wer kann das Projekt politisch beeinflussen? (positiv wie negativ) - Politiker, Demonstranten
+* Welche Partner hängen von unserem System ab? - keiner
+* Von welchen Partnern sind wir abhängig? - Partner, Universitäten (Datenbereitstellung)
+* Wer interessiert sich für den Prozess den wir nutzen um die Lösung zu entwickeln? -  Investoren
+* Wer wird welche Teile der implementierten Lösung nutzen? - umweltbewusste Menschen -> Co2-Stempel ausrechnen, umweltinteressierte Menschen -> Informieren über Verbesserungsvorschläge
+
+### Stakeholder Klassifizierung
+
+viel Macht/positiv -> eng managen: Partner, Product Owner, Investoren
+viel Macht/negativ -> zufriedenstellen: 
+wenig Macht/positiv -> informieren: Entwickler, Scrum Master, Nutzer, Universitäten
+wenig Macht/negativ -> überwachen:
 
 ## Warum wird Geld investiert? - Business Requirements
 
-Business Metriken
-Product Vision
+Durchschnittlicher CO2-Footprint der Nutzer ermitteln und möglichst reduzieren mit dem Ziel, den Planeten nachhaltiger zu gestalten
 
 ## Welche fachlichen Randbedingungen gibt es? - Business Rules
 
-Vorhandene Regeln
-Unabhängig von Software existent
+* Datenschutz (DSGVO)
+* AGB der AppStores
+* korrekte CO2-Messwerte
+* spezifische Werbung
 
-Beispiele:
-Bilanzierungsregeln
-Steuerberechnung
-Regeln zur Genehmigung bestimmter Anfragen (Urlaubsanträge, Bestellungen von Büromaterial, oder ähnlichem)
+## Welche technischen Randbedingungen gibt es? - Constraints
 
-## Welche technischen randbedingungen gibt es? - Constraints
-
-Beispiele:
-Die Lösung soll auf einem bestimmten Hyperscaler laufen
-Die Lösung soll einen bestimmten Service nutzen
-Die Lösung soll in einer bestimmten Programmiersprache entwickelt werden
+* API der Partner
+* Apple -> Swift, SwiftUI, ObjectiveC
+* Android -> Java, Kotiln
 
 ## Was muss technisch noch zusätzlich gemacht werden? - Functional Requirements
 
-Rein Funktionale Anforderungen, ohne direkten Mehrwert für den Nutzer.
-Werden aus technischen Gründen benötigt
-
-Beispiele:
-Konkrete Anforderungen an ein Datenbanschema
-Anforderung eine Lösung als Framework umzusetezen
+* Key-Value Datenbank (Redis)
+* Backend Server (REST-API)
 
 ## Welche Qualitätsmerkmale muss die Lösung erfüllen? - Non-functional Requirement
 
-Formulieren Konkrete Anforderungen an die Produktqualität und machen diese explizit
-Häufig können Zielbereiche definiert werden
+* Berechnung des CO2-Footprints dauert im schlechtesten Fall weniger als 1sec
+* Gut nutzbar wenn Berechnung schneller als eine Sekunde
+* Nicht mehr nutzbar wenn Berechnung länger als drei Sekunden dauert
 
-Beispiele:
-Berechnung des Gesamtwertes
-Dauert im Besten Fall 100ms
-Gut nutzbar wenn Berechnung schneller als eine Sekunde
-Nicht mehr nutzbar wenn Berechnung länger als zwei Sekunden dauert
+* Intuitives Design um innerhalb max. 4 Klicks neue Aktivitäten hinzuzufügen
+* Umweltwerbung (ausschaltbar)
+* qualitativ hochwertige Verbesserungsvorschläge
+* Freunde und Mitbewerber einfach hinzufügen (Nutzername, QR-Scan)
 
 ## Welche Systeme müssen integriert werden? - External Interface Requirements
 
-Definieren von Anforderungen bezüglich externer Schnittstellen (APIs)Kann von Nennung der Notwendigkeit bis hin zu detaillierter Formatbeschreibung gehen
+* Universitäts-API für Daten
+* RNV-API
+* DB-API
+* Bezahlung (In-App-Käufe, Spenden)
 
 ## Wer wird die Lösung verwenden? - User Classes / Personas
 
