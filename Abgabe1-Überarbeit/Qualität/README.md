@@ -18,7 +18,7 @@ Die höchste Priorität hat bei uns das Schützen der sensiblen Nutzerdaten vor 
 Die Funktionen die unsere App anbietet, sollen sowohl unsere, als auch viemehr die Erwartungen unserer Nutzer erfüllen. Die tatsächlichen Ergebnisse sollen die Zielergebnisse möglich nah treffen. Dies beinhaltet beispielsweise die maximale Ausfallzeit der Anwendung und Schnittstellen oder die Laufzeit für das Eintragen einer neuen Aktivität.
 
 ## Usability
-Die Bedienung unsere App soll den Nutzer zufriedenstellen. Die App soll visuell unsere umweltbewusstes Image vertreten und die Nutzung soll einfach und effektiv sein. Der Nutzer soll möglichst effizient durch die App navigieren und ihre Funktionen bedienen können.
+Die Bedienung unsere App soll den Nutzer zufriedenstellen. Die App soll visuell unser umweltbewusstes Image vertreten und die Nutzung soll einfach und effektiv sein. Der Nutzer soll möglichst effizient durch die App navigieren und ihre Funktionen bedienen können.
 
 ## Reliability
 Bei der Entwicklung der App wird besonders auf ihre Verlässlichkeit geachtet. Die App soll trotz möglicher Serverausfälle, Hardware-/Softwarefehler oder während kurzzeitiger Engpässe verlässlich laufen. Dadurch kann die Usability weiter gesteigert werden. Die höhere Zufriedenheit der Nutzer führt folglich zu einer höheren Wahrscheinlichkeit, dass die aktuellen Nutzer gehalten werden können und dass die App weiterempfohlen wird.
