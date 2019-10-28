@@ -113,14 +113,48 @@ Untergliedert:
 **so that** I only need to use one app. -> (Tech.)  
 
 **As** Uli Umweltbewusst  
-**I want to** have a secure data storing  
+**I want to** have my datda stored secure  
 **so that** I don’t need to be afraid that my data is used for other purpose. -> (Tech.)  
+
+**As** Uli Umweltbewusst  
+**I want to** invite my friends 
+**so that** it can push me and them for lowering our CO2 footprint. -> (Inh.)  
 
 **As** Uli Umweltbewusst  
 **I want to** help the world  
 **so that** it can run better 😉. -> (Inh.)  
 
 ### Acceptance Criteria
+**Given** a user has an account **and** he added a friend  
+**when** the user decides to start a competition  
+**then** a invitation message is sent to his friend **and** a group will be opened.  
+
+**Given** a user has an account **and** is the owner of a group **and** another friend is added
+**when** he adds another user to the group
+**then** a invitation message is sent to his friend.  
+
+**Given** a user has an account **and** is invited to join a group
+**when** he accepts the invitation
+**then** he will be included to the group.  
+
 ### Use Case
+
+Betrachtung der Situation, dass ein Nutzer jmd einladen möchte.
+
+#### Normal Flow
+**As** Uli Umweltbewusst  
+**I want to** have my data stored secure  
+**so that** I don’t need to be afraid that my data is used for other purpose. -> (Tech.)  
+
+#### Alternate Flow
+**As** Uli Umweltbewusst  
+**I want to** have my data stored secure with the possibility to see my personal data  
+**so that** I don’t need to be afraid that my data is used for other purpose. -> (Tech.)  
+
+#### Exception Flow
+**As** Uli Umweltbewusst  
+**I want to** have my data stored secure   
+**so that** my data does not get leaked. -> (Tech.)  
+
 ### User Story Mapping
 ![Map](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Map.PNG)
