@@ -77,9 +77,37 @@ Theme:	Eine Menge an User Stories, welche thematisch zusammengehören
 **I want to** learn more about the environment and how I can reduce my footprint  
 **so that** I can help to save the earth.  
 
+**As** Ursula Umweltinteressiert  
+**I want to** learn more about the environment and how I can reduce my footprint  
+**so that** I can help to save the earth.  
+
+**As** Ursula Umweltinteressiert  
+**I want to** learn more about environment apps  
+**so that** I can share them with my friends.  
+
+**As** Ursula Umweltinteressiert  
+**I want to** have a good User Experience  
+**so that** I won’t have any problems while using the app.  
+
+**As** Ursula Umweltinteressiert  
+**I want to** have a secure data storing  
+**so that** my Internet-Footprint isn’t big as my CO2-Footprint.  
+
 **As** Uli Umweltbewusst  
 **I want to** see how much CO2 I produce  
 **so that** I can compete to my friends who has the least CO2- Footprint.
+
+**As** Uli Umweltbewusst  
+**I want to** have a good User Experience  
+**so that** I only need to use one app.  
+
+**As** Uli Umweltbewusst  
+**I want to** have a secure data storing  
+**so that** I don’t need to be afraid that my data is used for other purpose.  
+
+**As** Uli Umweltbewusst  
+**I want to** help the world  
+**so that** it can run better 😉.  
 
 ### Acceptance Criteria
 ### Use Case
