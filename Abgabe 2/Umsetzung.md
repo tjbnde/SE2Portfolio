@@ -16,7 +16,7 @@ Bei agilen Arbeitsweisen bildet die richtige Einstellung der Teammitglieder eine
 ## Scrum-Events
 
 -	**Sprint Planning**\
-Es ist geplant sich jede Woche abzustimmen. Der Sprintwechsel wird auf Mittwochabend festgelegt. Die Planung und der Inhalt für den ersten Sprint wird noch geplant.
+Es ist geplant sich jede Woche abzustimmen. Der Sprintwechsel wird auf Mittwochabend festgelegt. Die Inhalte des ersten Sprints wurden im Sprint Backlog festgelegt
 
 -	**Weekly Scrum**\
 Es wurde sich für ein Weekly Srum entschieden, da das Team aus freiwilligen Entwicklern besteht, die sich am Projekt neben ihrer Hauptarbeit betätigen. Es ist also nicht realistisch, dass es täglich neue Ergebnisse gibt und es ist somit einerseits überflüssig täglich Scrum Meetings zu halten und andererseits würde es den Fortschritt des Projektes hemmen.
@@ -36,9 +36,26 @@ Gleiches gilt hier, da noch kein Sprint durchgeführt wurde und somit Ergebnisse
   •	Alle Akzeptanzkriterien sind erfüllt
   
 -	**Product Backlog**\
-*Noch zu ergänzen*
+Nach Priorität geordnet\
+  •	CO2-Footprint messen\
+  •	Account\
+  •	Tipps und Q&A\
+  •	Werbung\
+  •	Community-Forum\
+  •	Zahlungsmöglichkeit\
+  •	Plant-A-Tree for every 100th User\
+  •	Gruppenfunktion\
+  •	Leaderboards\
+  •	Achievements\
+  •	Umwelt-Kalender\
+  •	Support-Integration mit Einstufung der Notwendigkeit
 
 -	**Sprint Backlog**\
-*Noch zu ergänzen*
+  •	Erste UI-Struktur\
+  •	Backend Server vorbereiten\
+  •	Partner Gespräche führen\
+  •	Aktivität eintragen\
+  •	Account erstellen
+
 -	**Inkrement**\
 Eine laufende App, die durch die Items des Product Backlogs bestimmt ist.
