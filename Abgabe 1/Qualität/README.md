@@ -1,5 +1,7 @@
 # Software Produkt Qualitäten
 
+![Qualität](Qualität-Raw/Qualitätsstandard Matrix.PNG)
+
 In Anbetracht der App, die programmiert werden soll, wurde sich auf die folgende Reihenfolge der Charakteristiken geeinigt.
 
 1.Security\
