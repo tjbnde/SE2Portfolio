@@ -12,10 +12,12 @@ CO2-Footprint messen:
 * Account-Verwaltung (Reg., Login)
 * Plant-A-Tree for every 100th User
 * Berechnungsalg.
+* Umweltkalender
 
 ### S
 * Werbung
 * Speicherung und Verwaltung
+* Achievements
 
 ### M
 * Zahlungsmöglichkeit (ApplePay, GooglePay, PayPal)
