@@ -70,7 +70,7 @@ Epic:	Große und grob beschriebene User Story. Sollte in kleinere User Stories g
 
 Theme:	Eine Menge an User Stories, welche thematisch zusammengehören
 
-## Was braucht / erwartet der Endanwender? - User Requirements /
+## Was braucht / erwartet der Endanwender? - User Requirements
 
 ### Story
 **As** Ursula Umweltinteressiert  
