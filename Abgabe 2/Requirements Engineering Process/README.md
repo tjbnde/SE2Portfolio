@@ -16,7 +16,7 @@
 
 ### Stakeholder Klassifizierung
 
-![Klassifizierung](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Matrix.jpg)
+![Klassifizierung](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements%20Engineering%20Process/Requirements-Raw/Matrix.jpg)
 
 ## Warum wird Geld investiert? - Business Requirements
 
@@ -61,8 +61,8 @@ Durchschnittlichen CO2-Footprint der Nutzer ermitteln und möglichst reduzieren 
 
 ## Wer wird die Lösung verwenden? - Personas
 
-![Umweltbewusste Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona1.jpg)
-![Umweltinteressierte Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona2.jpg)
+![Umweltbewusste Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements%20Engineering%20Process/Requirements-Raw/Persona1.jpg)
+![Umweltinteressierte Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements%20Engineering%20Process/Requirements-Raw/Persona2.jpg)
 
 ## Welche großen Blöcke gibt es? - Themes / Epics
 
@@ -157,4 +157,4 @@ Betrachtung der Situation, dass ein Nutzer jmd einladen möchte.
 **so that** my data does not get leaked.  
 
 ### User Story Mapping
-![Map](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Map.PNG)
+![Map](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements%20Engineering%20Process/Requirements-Raw/Map.PNG)
