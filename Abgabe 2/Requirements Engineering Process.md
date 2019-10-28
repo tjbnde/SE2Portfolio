@@ -17,7 +17,7 @@ Durchgeführter Requirements Engineering Prozess und Dokumentation aller gefunde
 
 ### Stakeholder Klassifizierung
 
-![Klassifizierung](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Matrix.jpg)
+![Klassifizierung](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Matrix.jpg)
 
 ## Warum wird Geld investiert? - Business Requirements
 
