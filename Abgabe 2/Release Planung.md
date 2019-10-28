@@ -28,5 +28,4 @@ Was können wir im nächsten Release liefern?
 ### Technisches Know-How bezüglich möglicher Abhängigkeiten oder Nebeneffekten
 * Datenstammsatz benötigt um Aktivitäten erfolreich und sinnvoll zu errechnen
 * Account nötig um alle Benutzeraktionen ausführen zu können
-* Für das Teilen von Aktivitäten werden Freunde-Gruppen und ein Account benötigt  
-Andere Abhängigkeiten oder Nebeneffekte entstehen bei der Entwicklung dieser App nicht.
+* Für das Teilen von Aktivitäten werden Freunde-Gruppen und ein Account benötigt
