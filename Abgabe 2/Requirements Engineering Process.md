@@ -112,3 +112,4 @@ Theme:	Eine Menge an User Stories, welche thematisch zusammengehören
 ### Acceptance Criteria
 ### Use Case
 ### User Story Mapping
+![Map](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Map.PNG)
