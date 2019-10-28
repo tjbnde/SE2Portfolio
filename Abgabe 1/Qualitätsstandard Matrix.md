@@ -1,1 +1,0 @@
-![Qualitäts-Matrix](Qualität-Raw/Qualität.PNG)

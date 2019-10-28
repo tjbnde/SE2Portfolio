@@ -1,1 +1,0 @@
-![Productvisionboard](Productvisionboard-Raw/ProductVisionBoard.PNG)
