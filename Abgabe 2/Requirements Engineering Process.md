@@ -84,7 +84,7 @@ Untergliedert:
 **I want to** compete with my friends  
 **so that** it is attractive to reduce my footprint.  
 
-### Theme:	Eine Menge an User Stories, welche thematisch zusammengehören
+### Theme:
 * Technisch (Tech.): Sicherheit, UX
 * Inhaltlich (Inh.): Tipps, Freunde 
 
