@@ -144,17 +144,17 @@ Betrachtung der Situation, dass ein Nutzer jmd einladen möchte.
 #### Normal Flow
 **As** Uli Umweltbewusst  
 **I want to** have my data stored secure  
-**so that** I don’t need to be afraid that my data is used for other purpose. -> (Tech.)  
+**so that** I don’t need to be afraid that my data is used for other purpose.  
 
 #### Alternate Flow
 **As** Uli Umweltbewusst  
 **I want to** have my data stored secure with the possibility to see my personal data  
-**so that** I don’t need to be afraid that my data is used for other purpose. -> (Tech.)  
+**so that** I don’t need to be afraid that my data is used for other purpose.  
 
 #### Exception Flow
 **As** Uli Umweltbewusst  
 **I want to** have my data stored secure   
-**so that** my data does not get leaked. -> (Tech.)  
+**so that** my data does not get leaked.  
 
 ### User Story Mapping
 ![Map](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Map.PNG)
