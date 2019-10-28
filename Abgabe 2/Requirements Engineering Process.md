@@ -59,7 +59,7 @@ Durchschnittlicher CO2-Footprint der Nutzer ermitteln und möglichst reduzieren 
 * DB-API
 * Bezahlung (In-App-Käufe, Spenden)
 
-## Wer wird die Lösung verwenden? - User Classes / Personas
+## Wer wird die Lösung verwenden? - Personas
 
 ![Umweltbewusste Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona1.jpg)
 ![Umweltinteressierte Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona2.jpg)
