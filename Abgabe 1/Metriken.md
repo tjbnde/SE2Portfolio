@@ -4,10 +4,21 @@
 ![Business-Metrik Einnahmequellen](Metriken-Raw/Businessmetriken1.PNG)
 ---
 ![Business-Metrik Kosten](Metriken-Raw/Businessmetriken2.PNG)
+Zur Ermittlung der Prozentzahlen haben wir ein Budget von 5.000 € auf die verschiedenen Kostenfaktoren aufgeteilt. Den Kostenfaktoren stehen folgende Beträge zur Verfügung.
+* Planung: 250 €
+* Programmierung: 1.900 €
+* Design: 450 €
+* Marketing: 1.150 €
+* Weiterentwicklung: 900 €
+* Serverkosten im Jahr: 350 €
 ## Preis-Metriken
 ![Preismetrik](Metriken-Raw/Preismetrik.PNG)
 ## Nutzungs-Metriken
-Zur Erstellung von Nutzungs-Metriken werden tatsächliche Zahlen zur Verwendung des Produkts benötigt. Diese liegen in diesem Fall noch nicht vor und können dementsprechend erst später ergänzt werden.
+Screen Time pro Nutzer
+Eingetragene CO2 ausstoßende Aktivitäten pro Nutzer
+Empfehlungen durch Einladungslink pro Nutzer
+Swipen in den täglichen Tipps pro Nutzer
+
 ## Fitness Funktionen
 ### 1. Randbedingung: Maximale Laufzeit für die Eintragung einer Aktivität
 Die maximale Ladezeit für die Eintragung einer Aktivität in der Anwendung sollte eine Sekunde dauern.
