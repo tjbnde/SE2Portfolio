@@ -13,11 +13,8 @@
   Es sollten ausreichend Ressourcen berechnet werden. Die Entwicklung ist abhängig von Speicher, Server und dem entsprechenden Fachpersonal. Die Funktionalität der mobilen Anwendung hängt von der Verfügbarkeit dieser Ressourcen ab. Zudem ist es wichtig, dass die Anwendung plattformunabhängig ist, da sie in meherene App Stores angeboten werden soll.
 
 ### Technische Risiken
-  * Algorithmen: Algorithmen sollten genügend Platz haben, dass es nicht zu Speicher oder anderen Problemen kommt.
-  * Plattform: Die Plattform sollte für die Anwendung passend sein und Stabild und sicher laufen.
+  * Plattform: Die Plattform sollte für die Anwendung passend sein und stabil und sicher laufen.
   * Testing: Die Fehler, die nach dem Launch der mobilen App auftreten, sind schwierig und teuer zu beheben. Also ist es wichitig, alle möglichen Szenarien beim Testen auszuprobieren.
-
-     Allgemein ist Testen sehr wichtig, dass die wesentlichen Funktionalitäten problemlos gehen. Verschiedenste Modelle sollten getestet werden, da die App auf Geräten mit unterschiedlichen Bildschirmgrößen, Auflösungen und verschiedener Anbieter laufen wird.
 
 ### Kundenrisiken
 
@@ -33,9 +30,10 @@ Diese können wir noch nicht definieren, da die Entwicklung und Planung der App 
 ![Risikoklassifikation](Risiken-Raw/Risikenklassifikation.PNG)
 
 ## Bewertung und Strategie zur Mitigation
-* Falsche Datenerhebung: 
+* Falsche Datenerhebung: Sorgfälitge Auswahl der verwendeten Schnittstellen - Vermeidung von Standartwerten, stattdessen auf die einzelenen Nutzer angepassten CO2 Ausstoß (z. B. verschiedene Automodelle -> Unterschiedlicher CO2 Ausstoß) - Absprache mit der
+beauftragten Universität um benötigte Werte vorab zu definieren, da mit diesen Werten später gearbeitet wird.
 * Ressourcenrisiko: genug Server mit Rechenleistung und Speicher zur Verfügung haben
 * Wartungsrisiken: ständige Updates, Support-Anfragen mit Priorisierung erlauben
-* Technische Risiken:
-* Marktrisiko: eingehende Untersuchung der Marktbedürfnisse durchgeführen
+* Technische Risiken: Hohe Testabdeckung, der einzelnen Funktionalitäten (z . B. durch Unit-Tests) - Testen auf verschiedenen Geräten von verschiedenen Herstellern.
+* Marktrisiko: eingehende Untersuchung der Marktbedürfnisse durchführen
  
