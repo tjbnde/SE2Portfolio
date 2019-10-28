@@ -1,5 +1,4 @@
 # Requirements Engineering Process
-Durchgeführter Requirements Engineering Prozess und Dokumentation aller gefundenen Requirements. Fokus sollte hierbei auf den User Requirements liegen
 
 ## Wer ist an der Lösung interessiert? - Stakeholder
 
@@ -21,7 +20,7 @@ Durchgeführter Requirements Engineering Prozess und Dokumentation aller gefunde
 
 ## Warum wird Geld investiert? - Business Requirements
 
-Durchschnittlicher CO2-Footprint der Nutzer ermitteln und möglichst reduzieren mit dem Ziel, den Planeten nachhaltiger zu gestalten
+Durchschnittlichen CO2-Footprint der Nutzer ermitteln und möglichst reduzieren mit dem Ziel, den Planeten nachhaltiger zu gestalten
 
 ## Welche fachlichen Randbedingungen gibt es? - Business Rules
 
@@ -38,7 +37,8 @@ Durchschnittlicher CO2-Footprint der Nutzer ermitteln und möglichst reduzieren 
 
 ## Was muss technisch noch zusätzlich gemacht werden? - Functional Requirements
 
-* Key-Value Datenbank (Redis)
+* Key-Value Datenbank (Redis) für die einzelnen CO2-Werte
+* Relationale Datenbank (MySQL) für die präsentierten Daten, sowie zur Nutzerverwaltung 
 * Backend Server (REST-API)
 
 ## Welche Qualitätsmerkmale muss die Lösung erfüllen? - Non-functional Requirement
@@ -66,48 +66,59 @@ Durchschnittlicher CO2-Footprint der Nutzer ermitteln und möglichst reduzieren 
 
 ## Welche großen Blöcke gibt es? - Themes / Epics
 
-Epic:	Große und grob beschriebene User Story. Sollte in kleinere User Stories geteilt werden, bevor es bearbeitet wird
+### Epic:
+**As** Ursula Umweltinteressiert  
+**I want to** learn more about the environment, how I can reduce my footprint and compete with my friends
+**so that** I can help to save the earth.  
+
+Untergliedert:  
+**As** Ursula Umweltinteressiert  
+**I want to** learn more about the environment  
+**so that** I'm aware of the impact of my actions .  
+
+**As** Ursula Umweltinteressiert  
+**I want to** know how I can reduce my footprint  
+**so that** I can start living more sustainable.  
+
+**As** Ursula Umweltinteressiert  
+**I want to** compete with my friends  
+**so that** it is attractive to reduce my footprint.  
 
 Theme:	Eine Menge an User Stories, welche thematisch zusammengehören
+* Technisch (Tech.): Sicherheit, UX
+* Inhaltlich (Inh.): Tipps, Freunde 
 
 ## Was braucht / erwartet der Endanwender? - User Requirements
 
 ### Story
-**As** Ursula Umweltinteressiert  
-**I want to** learn more about the environment and how I can reduce my footprint  
-**so that** I can help to save the earth.  
-
-**As** Ursula Umweltinteressiert  
-**I want to** learn more about the environment and how I can reduce my footprint  
-**so that** I can help to save the earth.  
 
 **As** Ursula Umweltinteressiert  
 **I want to** learn more about environment apps  
-**so that** I can share them with my friends.  
+**so that** I can share them with my friends. -> (Inh.)  
 
 **As** Ursula Umweltinteressiert  
 **I want to** have a good User Experience  
-**so that** I won’t have any problems while using the app.  
+**so that** I won’t have any problems while using the app. -> (Tech.)  
 
 **As** Ursula Umweltinteressiert  
 **I want to** have a secure data storing  
-**so that** my Internet-Footprint isn’t big as my CO2-Footprint.  
+**so that** my Internet-Footprint isn’t big as my CO2-Footprint. -> (Inh.)  
 
 **As** Uli Umweltbewusst  
 **I want to** see how much CO2 I produce  
-**so that** I can compete to my friends who has the least CO2- Footprint.
+**so that** I can compete to my friends who has the least CO2- Footprint. -> (Inh.)
 
 **As** Uli Umweltbewusst  
 **I want to** have a good User Experience  
-**so that** I only need to use one app.  
+**so that** I only need to use one app. -> (Tech.)  
 
 **As** Uli Umweltbewusst  
 **I want to** have a secure data storing  
-**so that** I don’t need to be afraid that my data is used for other purpose.  
+**so that** I don’t need to be afraid that my data is used for other purpose. -> (Tech.)  
 
 **As** Uli Umweltbewusst  
 **I want to** help the world  
-**so that** it can run better 😉.  
+**so that** it can run better 😉. -> (Inh.)  
 
 ### Acceptance Criteria
 ### Use Case
