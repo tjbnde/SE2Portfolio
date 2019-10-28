@@ -1,6 +1,6 @@
 # Software Produkt Qualitäten
 
-![Qualität](Qualität-Raw/Qualitätsstandard Matrix.PNG)
+![Qualität](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%201/Qualit%C3%A4t/Qualit%C3%A4t-Raw/Qualit%C3%A4tsstandard%20Matrix.PNG)
 
 In Anbetracht der App, die programmiert werden soll, wurde sich auf die folgende Reihenfolge der Charakteristiken geeinigt.
 
