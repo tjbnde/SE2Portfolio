@@ -33,9 +33,9 @@ Diese können wir noch nicht definieren, da die Entwicklung und Planung der App 
 ![Risikoklassifikation](Risiken-Raw/Risikenklassifikation.PNG)
 
 ## Bewertung und Strategie zur Mitigation
-* Falsche Datenerhebung:  
-* Ressourcenrisiko:  
-* Wartungsrisiken:  
+* Falsche Datenerhebung: 
+* Ressourcenrisiko: genug Server mit Rechenleistung und Speicher zur Verfügung haben
+* Wartungsrisiken: ständige Updates, Support-Anfragen mit Priorisierung erlauben
 * Technische Risiken:
-* Marktrisiko:  
+* Marktrisiko: eingehende Untersuchung der Marktbedürfnisse durchgeführen
  
