@@ -12,14 +12,17 @@ Zur Ermittlung der Prozentzahlen haben wir ein Budget von 5.000 € auf die vers
 * Marketing: 1.150 €
 * Weiterentwicklung: 900 €
 * Serverkosten im Jahr: 350 €
+### Erfolgsbemessung
+* durchschnittlich sinkender Verlauf des CO2 Ausstoßes eines Nutzers über die Dauer der Erfassung
+* Anzahl der gepflanzten Bäume, die auf die Anzahl der Nutzer zurückführen
+
 ## Preis-Metriken
 ![Preismetrik](Metriken-Raw/Preismetrik.PNG)
 ## Nutzungs-Metriken
-Screen Time pro Nutzer
-Eingetragene CO2 ausstoßende Aktivitäten pro Nutzer
-Empfehlungen durch Einladungslink pro Nutzer
-Swipen in den täglichen Tipps pro Nutzer
-
+* Screen Time pro Nutzer
+* Eingetragene CO2 ausstoßende Aktivitäten pro Nutzer
+* Empfehlungen durch Einladungslink pro Nutzer
+* Swipen in den täglichen Tipps pro Nutzer
 ## Fitness Funktionen
 ### 1. Randbedingung: Maximale Laufzeit für die Eintragung einer Aktivität
 Die maximale Ladezeit für die Eintragung einer Aktivität in der Anwendung sollte eine Sekunde dauern.
