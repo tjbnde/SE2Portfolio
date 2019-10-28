@@ -61,6 +61,9 @@ Durchschnittlicher CO2-Footprint der Nutzer ermitteln und möglichst reduzieren 
 
 ## Wer wird die Lösung verwenden? - User Classes / Personas
 
+[Umweltbewusste Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona1.jpg)
+[Umweltinteressierte Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona1.jpg)
+
 ## Welche großen Blöcke gibt es? - Themes / Epics
 
 Epic:	Große und grob beschriebene User Story. Sollte in kleinere User Stories geteilt werden, bevor es bearbeitet wird
