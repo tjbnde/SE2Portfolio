@@ -18,6 +18,10 @@ Zur Ermittlung der Prozentzahlen haben wir ein Budget von 5.000 € auf die vers
 
 ## Preis-Metriken
 ![Preismetrik](Metriken-Raw/Preismetrik.PNG)
+
+Dabei unterscheiden wir zwischen Werbeeinblendungen und Klicks auf eine Werbeeinblendung:
+Das gewährleistet uns eine sichere Einnahmequelle für eine bessere Planung bei uns und beim Werbepartner bzgl. Einnahmen bzw. Ausgaben.
+Außerdem entsteht durch das Klickverfahren eine faire Bemessung des zu zahlenden Preises, durch nur das Bezahlen von tatsächlich erfolgreichen Werbeeinblendungen.
 ## Nutzungs-Metriken
 * Screen Time pro Nutzer
 * Eingetragene CO2 ausstoßende Aktivitäten pro Nutzer
