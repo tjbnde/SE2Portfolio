@@ -2,10 +2,10 @@
 
 ## Business-Metriken
 ![Business-Metrik Einnahmequellen](Metriken-Raw/Businessmetriken1.PNG)
-Für die Ermittlung der Prozentwerte haben wir uns überlegt, wie viel Geld wir prozentual aus welchen Einnahmequellen erhalten würden.
+Für die Ermittlung der Prozentwerte für die Einnahmequellen haben wir uns überlegt, wie viel Geld wir prozentual aus welchen Einnahmequellen erhalten würden.
 
 ![Business-Metrik Kosten](Metriken-Raw/Businessmetriken2.PNG)
-Zur Ermittlung der Prozentzahlen haben wir ein Budget von 5.000 € auf die verschiedenen Kostenfaktoren aufgeteilt. Den Kostenfaktoren stehen folgende Beträge zur Verfügung.
+Zur Ermittlung der Prozentzahlen für die Kosten haben wir ein Budget von 5.000 € auf die verschiedenen Kostenfaktoren aufgeteilt. Den einzelnen Bereichen stehen folgende Beträge zur Verfügung.
 * Planung: 250 €
 * Programmierung: 1.900 €
 * Design: 450 €
