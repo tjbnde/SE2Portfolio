@@ -36,6 +36,6 @@ Diese können wir noch nicht definieren, da die Entwicklung und Planung der App 
 * Falsche Datenerhebung:  
 * Ressourcenrisiko:  
 * Wartungsrisiken:  
-*Technische Risiken:
+* Technische Risiken:
 * Marktrisiko:  
  
