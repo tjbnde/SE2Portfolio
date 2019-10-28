@@ -14,6 +14,7 @@ Was können wir im nächsten Release liefern?
 * Leaderboards
 * Achievements
 * Umwelt-Kalender
+* Support-Integration mit Einstufung der Notwendigkeit
 
 ## Voraussetzungen
 Grob formulierte Anforderungen -> User Story
