@@ -1,37 +1,32 @@
 # Aufwandsschätzung
-Aufwandsschätzung der einzelnen Items durch Silent Sort Estimating:
 
-xs
-*
-s
-*
-m
-*
-l
-*
-xl
-*
+CO2-Footprint messen:
+* Datenerhebung
+* Berechnungsalg.
+* Speicherung und Verwaltung
+* Competition
 
-CO2-Footprint messen
-->
-->
-->
+## Aufwandsschätzung der einzelnen Items durch Silent Sort Estimating:
 
-erste Tipps
+### XS
+* Account-Verwaltung (Reg., Login)
+* Plant-A-Tree for every 100th User
+* Berechnungsalg.
+
+### S
+* Werbung
+* Speicherung und Verwaltung
+
+### M
+* Zahlungsmöglichkeit (ApplePay, GooglePay, PayPal)
+* erste Tipps
+* Competition
+* Support
+
+### L
+* Community-Forum
+
+### XL
+* Datenerhebung
 
 
-Werbung
-
-
-Account
-
-
-Community-Forum
-
-
-Zahlungsmöglichkeit
--> ApplePay
--> GooglePay
--> PayPal
-
-Plant-A-Tree for every 100th User
