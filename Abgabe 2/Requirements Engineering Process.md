@@ -77,10 +77,9 @@ Theme:	Eine Menge an User Stories, welche thematisch zusammengehören
 **I want to** learn more about the environment and how I can reduce my footprint
 **so that** I can help to save the earth.
 
-**As** Uli Umweltbewusst
-**I want to** see how much CO2 I produce 
+**As** Uli Umweltbewusst **I want to**  
+see how much CO2 I produce  
 **so that** I can compete to my friends who has the least CO2- Footprint.
-
 
 ### Acceptance Criteria
 ### Use Case
