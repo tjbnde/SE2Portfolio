@@ -59,7 +59,10 @@ Durchschnittlicher CO2-Footprint der Nutzer ermitteln und möglichst reduzieren 
 * DB-API
 * Bezahlung (In-App-Käufe, Spenden)
 
-## Wer wird die Lösung verwenden? - User Classes / Personas
+## Wer wird die Lösung verwenden? - Personas
+
+![Umweltbewusste Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona1.jpg)
+![Umweltinteressierte Persona](https://github.com/tjbnde/SE2Portfolio/blob/master/Abgabe%202/Requirements-Raw/Persona2.jpg)
 
 ## Welche großen Blöcke gibt es? - Themes / Epics
 
@@ -67,9 +70,17 @@ Epic:	Große und grob beschriebene User Story. Sollte in kleinere User Stories g
 
 Theme:	Eine Menge an User Stories, welche thematisch zusammengehören
 
-## Was braucht / erwartet der Endanwender? - User Requirements /
+## Was braucht / erwartet der Endanwender? - User Requirements
 
 ### Story
+**As** Ursula Umweltinteressiert  
+**I want to** learn more about the environment and how I can reduce my footprint  
+**so that** I can help to save the earth.  
+
+**As** Uli Umweltbewusst  
+**I want to** see how much CO2 I produce  
+**so that** I can compete to my friends who has the least CO2- Footprint.
+
 ### Acceptance Criteria
 ### Use Case
 ### User Story Mapping
