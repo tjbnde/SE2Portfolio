@@ -17,11 +17,16 @@ Was können wir im nächsten Release liefern?
 * Support-Integration mit Einstufung der Notwendigkeit
 
 ## Voraussetzungen
-Grob formulierte Anforderungen -> User Story
-Fachliches Know-How bezüglich des Kunden Mehrwerts der einzelnen Stories
 
-Schätzungen der Anforderungen (User Stories)
-Technisches Know-How bezüglich möglicher Abhängigkeiten oder Nebeneffekten ("wenn wir User Story A entwickeln, bekommen wir B quasi geschenkt"; "User Story D können wir ohne User Story C nur mit großem Mehraufwand entwickeln")
+### Fachliches Know-How:
+* Thema Umwelt
+* App.-Entwicklung (Frontend, Backend)
+* Verwaltung von Daten
+* Serveradministration
+* Securitymanagement
 
-
-## Kano-Modell
+### Technisches Know-How bezüglich möglicher Abhängigkeiten oder Nebeneffekten
+* Datenstammsatz benötigt um Aktivitäten erfolreich und sinnvoll zu errechnen
+* Account nötig um alle Benutzeraktionen ausführen zu können
+* Für das Teilen von Aktivitäten werden Freunde-Gruppen und ein Account benötigt  
+Andere Abhängigkeiten oder Nebeneffekte entstehen bei der Entwicklung dieser App nicht.
